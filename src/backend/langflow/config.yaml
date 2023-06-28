@@ -65,6 +65,7 @@ llms:
   - Anthropic
   - ChatAnthropic
   - HuggingFaceHub
+  - VertexAI
 memories:
   - ConversationBufferMemory
   - ConversationSummaryMemory
